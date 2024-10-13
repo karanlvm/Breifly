@@ -5,7 +5,7 @@ import os
 import time
 
 def initialize_gemini():
-    genai.configure(api_key="")  # Replace with your actual API key
+    genai.configure(api_key="AIzaSyDlcMA_ozPywPhthEPTbQDKBQRAA97jH7Y")  # Replace with your actual API key
 
     generation_config = {
         "temperature": 1,
