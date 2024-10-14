@@ -1,14 +1,7 @@
 
 # Breifly   
 
-Breifly is a news summarizer that is powered with Streamlit and Gemini.
-
-## Authors
-
-- [Karan Vasudevamurthy](https://www.github.com/karanlvm)
-- [Varun Date](https://www.github.com/vaun-date98)
-- [Devashish Kumar](https://www.github.com/devashishskumar)
-- [Atharva Kapadnis](https://www.github.com/n3cr0n411)
+Breifly is a news summarizer that is powered with Streamlit and Gemini. By deafault it loads data from the CSV files includes within this repository. All the data used in this project is taken from BBC.
 
 
 ## Environment Variables
@@ -36,7 +29,7 @@ Install dependencies
 pip install requirements.txt
 ```
 
-Start the server
+Run the application
 
 ```bash
 streamlit run new.py
